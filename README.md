@@ -6,3 +6,5 @@
 2) Anormaly email detection by unspuervised learning approach (with BERT): 
    Demostrate to use BERT pre-trained model to replace traditional feature engineering and how to deal with zero fraud dataset
 
+3) Speech emotion detection by TRILL pre-trained model:
+   Demostrate the feasibility of using pre-trained model by Google to distill features of a speech to detect speaker emotion
