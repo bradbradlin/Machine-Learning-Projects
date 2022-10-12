@@ -8,3 +8,6 @@
 
 3) Speech emotion detection by TRILL pre-trained model:
    Demostrate the feasibility of using pre-trained model by Google to distill features of a speech to detect speaker emotion
+
+4) Chineses Name Entity Recognition (NER) by SpaCy:
+   Demostrate to use SpaCy for Name Entity recognition from Chinese passage
